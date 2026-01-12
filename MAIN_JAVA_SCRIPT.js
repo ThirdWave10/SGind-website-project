@@ -1,8 +1,8 @@
 const sheetdb = 'https://sheetdb.io/api/v1/sqb92qg1v8gfy';
 const credentials = [{username: "Luke",password: "!@#$%^&*()"},
                      {username: "Shas",password: "QWERTY"},
-                     {username: "Tharun",password: "sigmasigma"},
-                     {username: "Eli", password: "rectangle"}];
+                     {username: "Tharun",password: "hdjdhf"},
+                     {username: "Eli", password: "idhdft"}];
 let trys = 0;
 
 
